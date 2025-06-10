@@ -1,0 +1,13 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+h1 {
+  font-size: 1.2em;
+}
+#result p {
+  margin: 0.5em 0;
+}
